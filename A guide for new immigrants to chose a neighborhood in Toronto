@@ -1,0 +1,23 @@
+For this week, you will required to submit the following:
+1.	A description of the problem and a discussion of the background. (15 marks)
+2.	A description of the data and how it will be used to solve the problem. (15 marks)
+
+	1. Introduction/Business problem:
+The goal of this study is to help newcomers chose a neighbourhood in Toronto city when they first move to Canada. On an average over 300,000 immigrants land in Canada each year in search of new opportunities and to settle down.  Toronto is the first choice of place for most newcomers as the job market is good and as it continually ranks as an important global city based on a high quality of living. As Toronto is very densely populated and has different varieties of neighbourhoods, it can pose a challenge to make the right choice that suits their needs. Hence, I'm attempting to solve this problem and help some young couples make that decision.
+The criteria that I have chosen to solve this problem is:
+•	The neighbourhood's proximity to the city centre.
+•	Restaurants and shopping malls in the area.
+•	Population demographic - Above average populations of 25–40-year-old male and female professionals.
+•	School rankings in the neighbourhood.
+•	Average to above average median net household incomes.
+
+
+2. Data
+
+The information necessary to solve this business problem will be obtained from a variety of sources:
+
+•	Neighbourhood profiles from city of Toronto open data portal - the data from this website provides us with the neighbourhood profiles, demographic information, transportation options from a neighbourhood etc
+https://open.toronto.ca/catalogue/?sort=last_refreshed%20desc
+
+•	Foursquare API to collect information on local restaurants, shopping malls and other entertainment venues in the neighborhoods of Toronto.
+https://foursquare.com/
